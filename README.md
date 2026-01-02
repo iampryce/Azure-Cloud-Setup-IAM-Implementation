@@ -1,6 +1,15 @@
-# Azure Cloud Setup & IAM Implementation
+<p align="center">
+  <img src="assets/logo.png" width="150">
+</p>
 
-![Azure Logo](images/azure-logo.png)
+<h1 align="center">Azure Cloud Setup & IAM Implementation
+</h1>
+
+<p align="center">
+
+</p>
+
+
 
 ## Overview
 This project documents the setup and configuration of a **Microsoft Azure environment** for a company, including domain integration, identity and access management (IAM), security configuration, and organizational hierarchy.  
